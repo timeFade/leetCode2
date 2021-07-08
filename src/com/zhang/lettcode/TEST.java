@@ -14,6 +14,8 @@ public class TEST{
         Field l = a.getField("a");
         l.set(l,12);
         System.out.println(l.get(a));
+        System.out.println("hhhh");
+
     }
 
 
